@@ -1,0 +1,9 @@
+The following lines describe the roles of each member.
+
+Derrick Stahlman will be the team leader and will be completing the jQuery part with 5 or more custom scripts(section 2)
+LaShay Sowell will be doing the bootstap and primary content of the website(section 1) as well as 2 custom grapics using canva, LeShay will be in charge of implementing all 5 graphics into the site so she will need to get in touch with Kimberly on the other 3 graphics.
+Kimberly Stacey will be doing section 4 which is the analysis using browser development tools as well as writing a 600-1200 word presentation in a analysis.txt file. She will also be completing 3 custom graphics using canva and will get in touch with LaShay on implementing them into the site. 
+
+Section three was split up the best way I can think of and I believe it will work out good since both LeShay and Kimberly have experiance with canva. Please keep in communication with your team mates and let them know how things are coming along. 
+
+If anyone has any questions please contact Derrick asap(facebook preferred) or if he is unavailable contact Mr Ramsey on teams. Thanks everyone.
