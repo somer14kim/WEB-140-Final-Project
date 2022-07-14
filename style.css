@@ -8,15 +8,31 @@
 
     }
 
-ul{ 
-    list-style: none;
-    font-size: 1em;
+    .navbar-nav{ 
+        list-style: none;
+        font-size: 1em;
+        text-align: center;
+        margin:auto;
+        padding: 0;
+        background-color: #bed4e9;
+        overflow: hidden;
+        justify-content: space-between;
+    }
+
+
+
+.nav-item{
+    display: inline-block;
+    border: solid;
     text-align: center;
-    margin:auto;
-    padding: 0;
-    background-color: #a9a9a9;
-    overflow: hidden;
-    justify-content: space-between;}
+    text-decoration: none;
+    padding: 10px 20px; 
+    margin:40px;
+    background-color:#a9a9a9;
+}
+
+
+
 
 h1 { border: solid black 2px; }
 
@@ -44,34 +60,20 @@ main{
     text-align: center;
     color: Black; }
 
+
+
 .program_name{ 
-    position: relative;
-    text-align: center;
-    color: Black; 
     width: 100%;
-    height: 400px;
+    height: 40vh;
     margin-bottom: 15px;
-
+    margin-top: 1px;
+    background-position: center;
     background-image: url("https://res.cloudinary.com/derrickstahlman/image/upload/v1657735763/banner2_xuwikg.png");
-
-    
-    
-
-
-
-    
-
+    background-size:cover;
     border: 2px solid black;
-    
-    
 }
 
-li{
-    display: inline-block;
-    border: solid;
-    text-align: center;
-    text-decoration: none;
-    padding: 10px 20px; }
+
 
 header{
     border: 2px black solid;
@@ -99,6 +101,7 @@ footer{
   
     #rightside{
         border:2px green solid;
+        padding-bottom: 3%;
         
     }
 
@@ -106,16 +109,8 @@ footer{
         border:2px purple solid;
     }
 
-    .nav-item{
-        margin:40px;
-        background-color:#a9a9a9;
-        
-        
-    }
-
-    .navbar-nav{
-        background-color: #bed4e9;
-    }
+    
+    
     
     .foot{
         color: black;
