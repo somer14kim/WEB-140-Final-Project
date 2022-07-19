@@ -27,4 +27,13 @@ $('#prev').on('click', function(){
     }
 })
 
+$(".nav-item").hover( 
+    function() {
+$( this ).css("background-color", "#05b7ed");
+},
+ function(){
+$( this ).css("background-color", "#bed4e9")
+}
+);
+
 });
