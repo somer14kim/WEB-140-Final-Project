@@ -26,11 +26,13 @@
 .nav-item{
     display: inline-block;
     border: solid;
+    border-radius: 1em;
     text-align: center;
     text-decoration: none;
     padding: 10px 20px; 
     margin:40px;
     background-color:#bed4e9;
+    
 }
 
 
@@ -41,6 +43,7 @@ h1 { border: solid black 2px; }
 h2{ 
     background-color: #bed4e9;
     border: solid 2px; 
+    border-radius: .25em;
     text-align: center;
 }
     
@@ -151,6 +154,7 @@ footer{
         overflow: auto;
         background-color: #a9a9a9;
         border: 6px dotted black;
+        border-radius: 2em;
         padding: 15px;
         display: inline-block;
     }
@@ -234,4 +238,14 @@ p{
     font-size: x-large;
 }
 
+.l1{
+    font-weight: bold;
+    font-size: x-large;
+    font-family:sans-serif;
 
+}
+
+.job-path{
+    font-weight:bold;
+    
+}
