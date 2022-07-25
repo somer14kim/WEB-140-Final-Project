@@ -263,3 +263,25 @@ p{
 }
 
 
+.pop{
+    display: none;
+    position: absolute;
+    margin:5px;
+    z-index : 100;
+    padding  : 10px;
+    background : #bed4e9;
+    border: 3px solid black;
+    border-radius: 1em;
+    width:20%;
+    right:10%;
+    top:20%;
+}
+
+.fade_this{
+    font-family: serif;
+    font-weight: bolder;
+    font-size: 4em;
+    border:none;
+
+
+}
