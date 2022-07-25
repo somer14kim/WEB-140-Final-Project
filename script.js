@@ -36,4 +36,22 @@ $( this ).css("background-color", "#bed4e9")
 }
 );
 
+
+
+
+
+
+$(function() {
+    $('.popper').hover(function() {
+        $('.pop').toggle();
+    });
+});
+
+
+
+
+$(".fade_this").delay(1000).fadeOut(6000);
+
+
+
 });
