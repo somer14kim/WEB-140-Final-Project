@@ -1,0 +1,122 @@
+Security is valid because it is a website from GitHub, so it is secured with a valid HTTPS.
+Memory statics on the usage: total - 2899 kB
+*406 kB - Code
+*140 kB - Strings
+*4 kB - JS arrays
+*893 kB - Typed arrays
+*541 kB -System objects
+
+Performance is at 94 percent.
+First Contentful Paint 0.5 s, Time to Interactive 0.5s, speed Index 0.6 s, Total Blocking Time 0 ms, Largest Con tentful Paint 1.6 s, Cumulative Layout Shift 0.018.
+Accessibility is at 95 percent but there are some issues with the background and foreground colors don’t have a sufficient contrast ratio.
+Failing element:h1.fade_this; div#navbarNav.collapse:navbar-collapse
+
+* The page has a logical tab order
+* Interactive controls are keyboard focusable
+* Interactive elements indicate their purpose and state
+* The user's focus is directed to new content added to the page
+* User focus is not accidentally trapped in a region
+* Custom controls have associated labels
+* Custom controls have ARIA roles
+* Visual order on the page follows DOM order
+* Offscreen content is hidden from assistive technology
+* HTML5 landmark elements are used to improve navigation
+
+12 Audits that passed:
+1. [aria-hidden="true"] is not present on the document <body>
+2. Image elements have [alt] attributes
+3. [user-scalable="no"] is not used in the <meta name="viewport"> element and the [maximum-scale] attribute is not less than 5.
+4. <video> elements contain a <track> element with [kind="captions"]
+5. The page contains a heading, skip link, or landmark region
+6. Document has a <title> element
+7. <html> element has a [lang] attribute
+8. <html> element has a valid value for its [lang] attribute
+9. Links have a discernible name
+10. Lists contain only <li> elements and script supporting elements (<script> and <template>).
+11. List items (<li>) are contained within <ul> or <ol> parent elements
+12. Heading elements appear in a sequentially descending order
+NOT APPLICABLE (31)
+1. [accesskey] values are unique
+2. [aria-*] attributes match their roles
+3. button, link, and menu-item elements have accessible names
+4. [aria-hidden="true"] elements do not contain focusable descendants
+5. ARIA input fields have accessible names
+6. ARIA meter elements have accessible names
+7. ARIA progress bar elements have accessible names
+8. [role]s has all required [aria-*] attributes
+9. Elements with an ARIA [role] that require children to contain a specific [role] have all required children.
+10. [role]s is contained by their required parent element
+11. [role] values are valid
+12. ARIA toggle fields have accessible names
+13. ARIA tooltip elements have accessible names
+14. ARIA treeitem elements have accessible names
+15. [aria-*] attributes have valid values
+16. [aria-*] attributes are valid and not misspelled
+17. Buttons have an accessible name
+18. <dl>'s contain only properly ordered <dt> and <dd> groups, <script>, <template> or <div> elements.
+19. Definition list items are wrapped in <dl> elements
+20. [id] attributes on active, focusable elements are unique
+21. ARIA IDs is unique
+22. No form fields have multiple labels
+23. <frame> or <iframe> elements have a title
+24. <input type="image"> elements have [alt] text
+25. Form elements have associated labels
+26. The document does not use <meta http-equiv="refresh">
+27. <object> elements have alternate text
+28. No element has a [tabindex] value greater than 0
+29. Cells in a <table> element that use the [headers] attribute refer to table cells within the same table.
+30. <th> elements and elements with [role="columnheader"/"rowheader"] have data cells they describe.
+31. [lang] attributes have a valid value
+Best Practices is at 100 percent.
+There is no CSP found in enforcement mode, so it is a high severity.
+Passed Audits:
+1. Uses HTTPS
+2. Avoids requesting the geolocation permission on page load
+3. Avoids requesting the notification permission on page load
+4. Avoids front-end JavaScript libraries with known security vulnerabilities
+5. Allows users to paste into password fields
+6. Displays images with correct aspect ratio
+7. Serves images with appropriate resolution
+8. Page has the HTML doctype
+9. Properly defines charset
+10. Avoids deprecated APIs
+11. No browser errors logged into the console
+12. No issues in the Issues panel in Chrome Devtools
+13. Page has valid source maps
+NOT APPLICABLE :
+Fonts with font-display: optional are preloaded
+SEO made a 100 percent. These checks ensure that your page is following basic search engine optimization advice. 
+ADDITIONAL ITEMS TO MANUALLY CHECK; Run these additional validators on your site to check additional SEO best practices.
+PASSED AUDITS:
+1. Has a <meta name="viewport"> tag with width or initial-scale
+2. Document has a <title> element
+3. Document has a meta description
+4. Page has successful HTTP status code
+5. Links have descriptive text
+6. Links are crawlable
+7. Page isn’t blocked from indexing
+8. Image elements have [alt] attributes
+9. Document has a valid hreflang
+10. Document avoids plugins
+NOT APPLICABLE:
+1. robots.txt is valid
+2. Document has a valid rel=canonical
+3. Documents use legible font sizes
+4. Tap targets are sized appropriately
+PWA
+These checks validate the aspects of a Progressive Web App. Learn more.
+INSTALLABLE
+Web app manifest or service worker do not meet the install ability requirements.
+PWA OPTIMIZED
+* Does not register a service worker that controls page and start_url
+* It is not configured for a custom splash screen Failures: No manifest was fetched.
+* Does not set a theme color for the address bar. Failures: No manifest was fetched, No `<meta name="theme-color">` tag found.
+* Content is sized correctly for the viewport
+* Has a <meta name="viewport"> tag with width or initial-scale
+* Does not provide a valid apple-touch-icon
+* Manifest doesn't have a maskable icon, No manifest was fetched
+
+
+
+
+
